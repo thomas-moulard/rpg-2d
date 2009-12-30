@@ -1,0 +1,62 @@
+================================================================================
+==                                                                            ==
+==                       Games Creators Network - RPG 2D                      ==
+==                                                                            ==
+==                                                                            ==
+== http://www.games-creators.org/                                             ==
+================================================================================
+
+Ce RPG est un projet mené par le Games Creators Network.
+Le but est d'apprendre, pas à pas, à programmer un RPG.
+
+Toutes les étapes et la documentation de ce programme sont disponibles sur:
+http://www.games-creators.org/
+
+
+* Commandes:
+============
+
+- flèches directionnelles pour se déplacer
+- espace pour effectuer une action
+- échap pour accéder au menu ou bien pour sortir d'une boutique
+- f1 pour sauvegarder une capture d'écran
+
+
+* Documentation en ligne:
+=========================
+
+Toute la documentation est en ligne à cette adresse:
+http://www.games-creators.org/wiki/R%C3%A9aliser_un_RPG_en_C_avec_SDL_et_FMOD
+
+
+* Téléchargements:
+==================
+
+L'ensemble du projet est disponible en téléchargement ici:
+http://forum.games-creators.org/showthread.php?t=914
+
+
+* DLLs nécessaires au projet:
+=============================
+
+Les DLLs:
+- fmod.dll
+- SDL.dll
+- SDL_ttf.dll
+
+sont nécessaires au fonctionnement de ce projet, si vous ne les possédez pas,
+vous pouvez les télécharger à partir des sites officiels.
+
+Si vous ne savez pas comment faire, consultez la documentation sur le wiki.
+
+
+* Bug, question, commentaire?
+=============================
+
+N'hésitez pas à me les transmettre à traver le forum du site ou bien
+via les pages discussions associées à la documentation dans le wiki.
+
+
+================================================================================
+== Games Creators Network              Apprendre. Comprendre. Partager. Créer ==
+================================================================================

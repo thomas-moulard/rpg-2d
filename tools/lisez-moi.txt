@@ -1,0 +1,26 @@
+================================================================================
+==                                                                            ==
+==                       Games Creators Network - RPG 2D                      ==
+==                                  Generator                                 ==
+==                                                                            ==
+== http://www.games-creators.org/                                             ==
+================================================================================
+
+Consultez les informations dans "main.c" pour plus d'information.
+
+
+AVERTISSEMENT: après la compilation, il est nécessaire de placer l'exécutable
+************** dans le répertoire principal du jeu.
+
+
+
+
+
+
+
+
+
+
+================================================================================
+== Games Creators Network              Apprendre. Comprendre. Partager. Créer ==
+================================================================================

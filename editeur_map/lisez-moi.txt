@@ -1,0 +1,26 @@
+================================================================================
+==                                                                            ==
+==                       Games Creators Network - RPG 2D                      ==
+==                               Editeur de carte                             ==
+==                                                                            ==
+== http://www.games-creators.org/                                             ==
+================================================================================
+
+"l": charger la carte "save\\save.map"
+"s": sauvegarder la carte "save\\save.map"
+
+"f": remplir l'écran avec la tuile sélectionnée
+
+"f1": impression écran dans le fichier screenshot.bmp
+"échap": quitter
+
+
+AVERTISSEMENT: après la compilation, il est nécessaire de placer l'exécutable
+************** dans le répertoire principal du jeu.
+
+
+
+
+================================================================================
+== Games Creators Network              Apprendre. Comprendre. Partager. Créer ==
+================================================================================
